@@ -1,5 +1,5 @@
 # Supperclub
-Supperclub is an iOS app focused on sharing field experiences, casual talking about different topics & more. Currently it supports 1-1/Group chats only.
+Supperclub is an iOS app focused on fostering meaningful connections and sharing experiences among users. Currently it supports 1-1/Group chats only.
 # Technologies Used
 * Xcode 14
 * SwiftUI 
